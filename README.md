@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cys0530
 - 👀 I’m interested in pentest
-- 🌱 I’m currently learning thm
-- 💞️ I’m looking to collaborate on hacking
+- 🌱 I’m currently learning web knowledge
+- 💞️ I’m looking to collaborate on making friend
 - 📫 How to reach me 微信：ChenYiSheng0530
 
 <!---
